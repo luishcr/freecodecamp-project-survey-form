@@ -1,6 +1,6 @@
-## FreeCodeCamp project: Survey Form
-Simple form page built in:
-- HTML
-- SCSS/CSS
+## Survey Form
+Built with:
+- HTML5
+- CSS / SASS
 
 
